@@ -4,6 +4,7 @@
  */
 class CyberStart {
     public static void main(String[] args) {
-        System.out.println("Hello World!\n"); // Display the string.
+        System.out.println("Hello World!\n\n"); 
+        System.out.println("Fuck the RP system ! YEah .. :) \n");// Display the string.
     }
 }
