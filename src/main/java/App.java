@@ -22,5 +22,6 @@ class CyberStart {
             numer++;
         };
         System.out.println("Done.\n");
+        odczyt.close();
     }
 }
